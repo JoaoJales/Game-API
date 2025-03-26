@@ -15,6 +15,8 @@ public class JogosApplication {
 
 }
 
+//Inserindo os dados por meio de linha de comando:
+
 //@SpringBootApplication
 //public class JogosApplication implements CommandLineRunner {
 //	@Autowired
